@@ -21,6 +21,5 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           if git commit -m "generated"; then
-            git remote set-url origin https://x-access-token:${{ secrets.TOKEN_SECRET }}@github.com/${{ github.repository_owner }}/${{ github.repository.name }}.git
             git push
           fi
