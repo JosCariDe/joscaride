@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![GitHub stats](./profile-3d-contrib/profile-green-animate.svg)
+  ![GitHub stats](./profile-3d-contrib/profile-night-green.svg)
 
   
 </div>
